@@ -1,4 +1,4 @@
-<marquee># How To Make Tea </marquee>
+<marquee> # How To Make Tea </marquee>
 The following instructions will allow you to make a good cup of any kind of tea. Also included are suggestions for amount of tea leaves, time of infusion, water temperature, and material of teapot for the general varieties of tea. Of course, there are more detailed instructions for any kind of tea. To find out more on how to prepare a specific kinds of a variety of tea, click on the kind of tea below.
 
 1. Bring freshly drawn, cold water to a boil in a kettle
