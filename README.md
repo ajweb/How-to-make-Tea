@@ -10,4 +10,4 @@ The following instructions will allow you to make a **good cup of any kind of te
 7. Strain completely into another teapot or directly into the serving cups.
 
 *For Information of tea will click on the wiki link below*
-      [Tea]{https://en.wikipedia.org/wiki/Tea}
+      [Tea](https://en.wikipedia.org/wiki/Tea)
